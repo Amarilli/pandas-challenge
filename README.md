@@ -16,6 +16,7 @@ I built a high-level snapshot of the district's key metric in a DataFrame that i
 * The rate of students who passed math and reading
 
 Then, I created a new DataFrame for the above calculations called `district_summary`.
+
 At this point, I created another DataFrame that summarized crucial metrics about each school, including:
 
 * School name
